@@ -1,6 +1,6 @@
 @import _customVariables.scss;
 $lt-gray: #ddd;
-$background-dark: #512DAB;
+$background-dark: #000000;
 $background-light: #9575CD;
 $background-pale: #D1C4E9;
 
@@ -41,7 +41,7 @@ $carousel-item-height:300px;
      z-index:0px;
 
      }
-     .nnavbar-inverse{
+     .navbar-inverse{
      background-color:$background-dark;
      }
      .tab-content{

@@ -16,7 +16,7 @@
 .jumbotron {
   margin: 0px auto;
   padding: 70px 30px;
-  background: #9575CD;
+  background: #808080;
   color: floralwhite; }
 
 address {
@@ -29,7 +29,7 @@ body {
   z-index: 0px; }
 
 .navbar-inverse {
-  background-color: #512DAB; }
+  background-color:  #666699; }
 
 .tab-content {
   border-left: 1px solid #ddd;
@@ -38,7 +38,7 @@ body {
   padding: 10px; }
 
 .carousel {
-  background: #512DAB; }
+  background:  #666699 }
   .carousel .carousel-item {
     height: 300px; }
     .carousel .carousel-item img {
